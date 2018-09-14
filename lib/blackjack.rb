@@ -33,6 +33,7 @@ def initial_round
   sum = 0 
   2.times do
     sum += deal_card
+  end 
 end
 
 def hit?
