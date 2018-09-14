@@ -23,7 +23,7 @@ def get_user_input
   string = gets.chomp
 end
 
-def end_game
+def end_game(total)
   # code #end_game here
   puts "Sorry"
 end
